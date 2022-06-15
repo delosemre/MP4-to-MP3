@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MP4 to MP3", "MP4 to MP3\MP4 to MP3.csproj", "{79FAE74B-F617-4029-A219-9D6054D7E728}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79FAE74B-F617-4029-A219-9D6054D7E728}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79FAE74B-F617-4029-A219-9D6054D7E728}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79FAE74B-F617-4029-A219-9D6054D7E728}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79FAE74B-F617-4029-A219-9D6054D7E728}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3A9161F-36DF-4917-BDD1-92CF340C6B08}
+	EndGlobalSection
+EndGlobal
